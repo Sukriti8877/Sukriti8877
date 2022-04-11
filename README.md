@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sukriti8877
 - 👀 I’m interested in  Fullstack Web development, Core java, Python, AWS and Computer Networking
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Andriod Development
 - 💞️ I’m looking to collaborate on Any of the above 
 - 📫 How to reach me Email me at sukritisinha654@gmail.com
 
